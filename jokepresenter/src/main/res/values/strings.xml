@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jokepresenter</string>
+    <string name="joke_key">joke_key</string>
+    <string name="no_joke">No joke was provided, restart app..</string>
+</resources>
